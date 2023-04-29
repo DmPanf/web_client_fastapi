@@ -7,7 +7,7 @@ Web-Client for FastAPI Server with Image Processing
 - **Чтобы сделать сайт доступным на другом порту (ex. 8080), нужно изменить конфигурацию веб-сервера (nginx.conf)**
 
 <code>
-my-simple-website/
+Web-site-in-Docker/
 │
 ├── index.html
 │

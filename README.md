@@ -30,5 +30,5 @@ Web-site-in-Docker/
 
 <p>
 <img src="https://raw.githubusercontent.com/dnp34/web_client_fastapi/main/files/web1.jpg" width="58%">
-<img src="https://raw.githubusercontent.com/dnp34/web_client_fastapi/main/files/web2.jpg" width="40%">
+<img src="https://raw.githubusercontent.com/dnp34/web_client_fastapi/main/files/web2.jpg" width="39%">
 </p><br>

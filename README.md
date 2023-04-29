@@ -29,6 +29,6 @@ Web-site-in-Docker/
 ### Examples
 
 <p>
-<img src="https://raw.githubusercontent.com/dnp34/web_client_fastapi/main/files/web1.jpg" width="45%">
-<img src="https://raw.githubusercontent.com/dnp34/web_client_fastapi/main/files/web2.jpg" width="45%">
+<img src="https://raw.githubusercontent.com/dnp34/web_client_fastapi/main/files/web1.jpg" width="55%">
+<img src="https://raw.githubusercontent.com/dnp34/web_client_fastapi/main/files/web2.jpg" width="43%">
 </p><br>
